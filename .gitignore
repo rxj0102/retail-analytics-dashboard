@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Note: data/retail.db and the CSVs in data/ are committed on purpose
+# so the dashboard runs right after cloning.

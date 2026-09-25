@@ -1,0 +1,11 @@
+store_id,store_name,city,state,region,open_date
+S01,Manhattan Flagship,New York,NY,Northeast,2015-03-14
+S02,Boston Back Bay,Boston,MA,Northeast,2017-09-02
+S03,Atlanta Midtown,Atlanta,GA,Southeast,2016-05-21
+S04,Miami Brickell,Miami,FL,Southeast,2019-11-09
+S05,Chicago Loop,Chicago,IL,Midwest,2014-06-01
+S06,Columbus Short North,Columbus,OH,Midwest,2020-04-18
+S07,Dallas Uptown,Dallas,TX,Southwest,2018-08-11
+S08,Phoenix Scottsdale,Phoenix,AZ,Southwest,2021-02-27
+S09,Los Angeles Arts District,Los Angeles,CA,West,2016-10-15
+S10,Seattle Capitol Hill,Seattle,WA,West,2019-03-30

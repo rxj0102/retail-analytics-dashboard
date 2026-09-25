@@ -1,0 +1,26 @@
+product_id,product_name,category,base_price
+P001,Linen Throw Blanket,Home Goods,49.99
+P002,Ceramic Table Lamp,Home Goods,79.00
+P003,Scented Soy Candle Set,Home Goods,24.99
+P004,Woven Storage Basket,Home Goods,34.50
+P005,Framed Wall Mirror,Home Goods,129.00
+P006,Wireless Earbuds,Electronics,89.99
+P007,Bluetooth Speaker,Electronics,59.99
+P008,Smart LED Bulb 4-Pack,Electronics,39.99
+P009,Portable Power Bank,Electronics,29.99
+P010,Ultrabook Laptop 14in,Electronics,1099.00
+P011,Organic Cotton Tee,Apparel,22.00
+P012,Merino Wool Sweater,Apparel,94.00
+P013,Waterproof Rain Jacket,Apparel,139.00
+P014,Everyday Canvas Sneakers,Apparel,64.99
+P015,Relaxed Fit Chinos,Apparel,58.00
+P016,Cast Iron Skillet 12in,Kitchen,44.95
+P017,Chef Knife 8in,Kitchen,69.00
+P018,Pour Over Coffee Set,Kitchen,38.00
+P019,Stand Mixer,Kitchen,349.99
+P020,Glass Meal Prep Containers,Kitchen,27.99
+P021,Two Person Camping Tent,Outdoor,179.00
+P022,Insulated Water Bottle,Outdoor,32.00
+P023,Trail Daypack 24L,Outdoor,84.00
+P024,Folding Camp Chair,Outdoor,45.00
+P025,Portable Propane Grill,Outdoor,219.00

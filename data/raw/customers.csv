@@ -1,0 +1,521 @@
+customer_id,first_name,last_name,email,signup_date,state,region
+C0319,Diego,Davis,diego.davis26@icloud.com,2024-02-22,wisconsin,Midwest
+C0366,Ashley,Walker,ashley.walker70@gmail.com,2024-07-24,ct,Northeast
+C0491,Carol,Lopez,carol.lopez3@hotmail.com,2025-09-17,NC,Southeast
+C0276,Priya,Nguyen,priya.nguyen66@hotmail.com,2023-10-29,WA,West
+C0053,Steven,Thompson,steven.thompson83@icloud.com,09-Nov-2021, OR,West
+C0492,Linda,Wilson,linda.wilson9@gmail.com,2025-09-24,Oklahoma,Southwest
+C0034,Sandra,Adams,sandra.adams87@gmail.com,09/12/2021,CA,West
+C0459,William,King,william.king81@yahoo.com,12-May-2025,NV ,Southwest
+C0481,Steven,Adams,steven.adams31@icloud.com,2025-08-23, NY,Northeast
+C0278,Hiroshi,Singh,hiroshi.singh89@hotmail.com,11/05/2023,TX,Southwest
+C0519,ava,JOHNSON,ava.johnson93@yahoo.com,2025-10-01,NM,Southwest
+C0382,David,Murphy,david.murphy27@gmail.com,13-Sep-2024,WA,West
+C0300,George,GREEN,george.green95@yahoo.com,12/23/2023,NM,Southwest
+C0511,timothy,GONZALEZ,timothy.gonzalez15@yahoo.com,2024-05-25,VA,Southeast
+C0175,Lisa,Harris,,2022-11-26,NJ,Northeast
+C0288,Richard,Green,richard.green45@outlook.com,2023-11-20,PA ,Northeast
+C0333,Timothy,Gonzalez,,2024-04-20,VA,Southeast
+C0033,Elizabeth,Lewis,elizabeth.lewis58@hotmail.com,2021-09-12,CA,West
+C0435,Elizabeth,Allen,elizabeth.allen55@gmail.com,2025-03-02,NC,Southeast
+C0331,george,Nguyen,george.nguyen41@gmail.com,04/09/2024,WI,Midwest
+C0284,Olivia,Murphy,olivia.murphy4@icloud.com,2023-11-12,IL,Midwest
+C0510,AMANDA,MILLER,,2025-03-21,PA,Northeast
+C0428,Amanda,MILLER,amanda.miller21@outlook.com,2025-02-13,PA,Northeast
+C0418,Kwame,Rivera,kwame.rivera73@icloud.com,2024-12-30,Illinois,Midwest
+C0091,Liam,Baker,liam.baker40@outlook.com,02/18/2022,OR,West
+C0047,Mateo,Green,mateo.green39@outlook.com,2021-10-08,GA,Southeast
+C0456,Melissa,Singh,melissa.singh79@yahoo.com,2025-04-25,VA,Southeast
+C0105,Timothy,Nelson,timothy.nelson30@icloud.com,2022-04-09,Michigan,Midwest
+C0394,Joshua,Chen,joshua.chen90@yahoo.com,2024-10-23,OH,Midwest
+C0349,Ryan,Rodriguez,ryan.rodriguez25@icloud.com,06/23/2024,PA,Northeast
+C0396,Brian,Wilson,brian.wilson92@outlook.com,2024-10-25,nv,Southwest
+C0031,jennifer,Singh,jennifer.singh9@gmail.com,2021-09-02,NY,Northeast
+C0258,Mary,Garcia,mary.garcia92@icloud.com,2023-09-11,GA,Southeast
+C0348,PRIYA,Jackson,priya.jackson63@yahoo.com,2024-06-17,VA,Southeast
+C0204,Charles,Jones,charles.jones72@hotmail.com,2023-02-20, MA,Northeast
+C0012,liam,Young,liam.young49@gmail.com,07/18/2021,mn,Midwest
+C0279,Emily,Williams,emily.williams29@icloud.com,11/07/2023,CT,Northeast
+C0253,PRIYA,Wright,priya.wright89@gmail.com,2023-08-25, IL,Midwest
+C0389,Carol,Adams,carol.adams35@hotmail.com,2024-10-01,az,Southwest
+C0208,Brian,Thomas,brian.thomas71@gmail.com,17-Mar-2023,MI,Midwest
+C0353,William,Hernandez,william.hernandez54@icloud.com,05-Jul-2024,GA,Southeast
+C0479,Sarah,Walker,sarah.walker31@icloud.com,2025-08-10,virginia,Southeast
+C0025,Elena,Lewis,elena.lewis45@yahoo.com,2021-08-21,Connecticut,Northeast
+C0439,Betty,Rivera,betty.rivera17@hotmail.com,2025-03-07,MN,Midwest
+C0426,Michelle,Hall,michelle.hall89@yahoo.com,2025-02-08,IL,Midwest
+C0245,Amanda,Nelson,amanda.nelson36@icloud.com,2023-07-12,NV,Southwest
+C0106,Elena,Garcia,elena.garcia73@yahoo.com,2022-04-10,New York,Northeast
+C0466,Barbara,Jones,barbara.jones45@icloud.com,2025-06-08,MN,Midwest
+C0038,NOAH,Thompson,noah.thompson28@gmail.com,2021-09-18,nj,Northeast
+C0109,Susan,Torres,susan.torres33@icloud.com,2022-04-13,wa,West
+C0387,Brian,Jones,brian.jones91@outlook.com,2024-09-29,ct,Northeast
+C0334,Betty,Williams,betty.williams48@yahoo.com,2024-04-21,MI,Midwest
+C0207,William,WHITE,william.white12@outlook.com,03/15/2023,FL,Southeast
+C0159,Barbara,SANCHEZ,barbara.sanchez61@outlook.com,2022-10-07,CO,West
+C0262,Emma,Flores,emma.flores52@hotmail.com,2023-09-27,NJ,Northeast
+C0393,Wei,Miller,wei.miller84@yahoo.com,2024-10-19,MI,Midwest
+C0202,Noah,Patel,noah.patel12@yahoo.com,2023-02-09,MI,Midwest
+C0419,Susan,Perez,susan.perez44@gmail.com,2025-01-04,MN,Midwest
+C0363,Sarah,Okafor,sarah.okafor15@hotmail.com,2024-07-19,NV,Southwest
+C0225,Timothy,Lopez,timothy.lopez33@yahoo.com,2023-05-03,NV,Southwest
+C0417,Jessica,Brown,jessica.brown74@yahoo.com,30-Dec-2024,VA,Southeast
+C0509,carol,WILLIAMS,,2025-10-11,VA,Southeast
+C0082,Priya,Lewis,priya.lewis95@gmail.com,2022-02-03,CO,West
+C0089,Omar,hall,omar.hall60@hotmail.com,02/16/2022,WI,Midwest
+C0102,Elizabeth,Torres,,2022-04-02, MA,Northeast
+C0345,Brian,Patel,brian.patel41@icloud.com,2024-05-29,AZ,Southwest
+C0486,Nicole,Flores,nicole.flores50@hotmail.com,2025-09-04,OK,Southwest
+C0287,Olivia,Jones,olivia.jones15@yahoo.com,2023-11-18,MA,Northeast
+C0347,Ava,Cohen,ava.cohen46@gmail.com,2024-06-08,VA,Southeast
+C0443,Donna,Jackson,donna.jackson90@outlook.com,2025-03-17, CT,Northeast
+C0154,Linda,Chen,linda.chen56@outlook.com,2022-09-19,CT,Northeast
+C0335,Patricia,Mitchell,patricia.mitchell66@icloud.com,2024-04-26,VA,Southeast
+C0055,Susan,Young,susan.young90@icloud.com,2021-11-13, TX,Southwest
+C0026,robert,Patel,robert.patel36@yahoo.com,22-Aug-2021,WI,Midwest
+C0462,George,Hernandez,george.hernandez28@gmail.com,2025-05-23,NC ,Southeast
+C0029,Zara,Sanchez,zara.sanchez79@gmail.com,09/01/2021,CA,West
+C0064,Emma,Jones,emma.jones54@hotmail.com,2021-12-08,NY,Northeast
+C0410,Anthony,Flores,anthony.flores82@outlook.com,2024-12-08,OH,Midwest
+C0386,Noah,Chen,noah.chen22@outlook.com,2024-09-28,WI,Midwest
+C0292,Mei,Hernandez,mei.hernandez61@gmail.com,12/03/2023,NM,Southwest
+C0255,Anthony,Rivera,anthony.rivera18@outlook.com,28-Aug-2023,oklahoma,Southwest
+C0442,Amanda,Robinson,amanda.robinson2@gmail.com,2025-03-15,OK,Southwest
+C0457,Wei,Robinson,wei.robinson57@outlook.com,2025-04-29,OH,Midwest
+C0210,Jennifer,Lewis,jennifer.lewis42@icloud.com,2023-03-21,WA ,West
+C0425,James,Lopez,james.lopez55@yahoo.com,2025-02-06,TN,Southeast
+C0367,Thomas,Patel,thomas.patel98@icloud.com,2024-07-25, WI,Midwest
+C0424,Daniel,Clark,daniel.clark59@gmail.com,2025-01-23,ok,Southwest
+C0081,David,Baker,david.baker28@yahoo.com,01-Feb-2022,VA,Southeast
+C0023,Daniel,Kim,daniel.kim49@yahoo.com,2021-08-19,NJ,Northeast
+C0002,HIROSHI,Perez,hiroshi.perez55@outlook.com,2021-06-06,OR,West
+C0293,Elena,Robinson,elena.robinson57@icloud.com,12/07/2023,UT,West
+C0183,Charles,Kim,charles.kim58@icloud.com,2022-12-20,CA,West
+C0350,Robert,Taylor,robert.taylor72@hotmail.com,2024-06-28,GA,Southeast
+C0167,Diego,Mitchell,diego.mitchell97@icloud.com,2022-10-26,WI,Midwest
+C0119,Aisha,Torres,aisha.torres98@gmail.com,2022-05-25,georgia,Southeast
+C0080,Jessica,Campbell,jessica.campbell39@gmail.com,31-Jan-2022,NC,Southeast
+C0061,Donna,Gonzalez,donna.gonzalez91@yahoo.com,2021-12-05,NJ,Northeast
+C0133,Nicole,Hernandez,nicole.hernandez69@outlook.com,2022-08-04,MI,Midwest
+C0322,Joseph,Robinson,joseph.robinson68@outlook.com,2024-03-17,massachusetts,Northeast
+C0264,Karen,Rivera,karen.rivera70@gmail.com,2023-09-28,fl,Southeast
+C0402,Susan,lewis,susan.lewis10@gmail.com,2024-11-11,WA,West
+C0107,Linda,Murphy,linda.murphy64@hotmail.com,2022-04-10,CT,Northeast
+C0433,George,Flores,george.flores81@outlook.com,02/27/2025,CA,West
+C0219,Linda,Anderson,linda.anderson35@icloud.com,2023-04-08, NY,Northeast
+C0266,Emily,Adams,emily.adams77@gmail.com,2023-10-02,TN,Southeast
+C0153,Andrew,young,andrew.young11@icloud.com,2022-09-19,Washington,West
+C0452,Steven,Martin,steven.martin97@yahoo.com,2025-04-14, OH,Midwest
+C0251,Liam,Baker,liam.baker91@yahoo.com,08/20/2023,IL,Midwest
+C0505,Sandra,Patel,sandra.patel69@outlook.com,2025-10-30,TN,Southeast
+C0379,Kwame,Adams,kwame.adams81@icloud.com,2024-09-02,TN ,Southeast
+C0059,nancy,Nguyen,nancy.nguyen61@yahoo.com,2021-12-04,OK ,Southwest
+C0203,George,Sanchez,george.sanchez56@icloud.com,2023-02-13,CA,West
+C0163,Betty,Martinez,betty.martinez85@gmail.com,2022-10-15,NY,Northeast
+C0084,Brian,Hall,brian.hall32@hotmail.com,2022-02-07, AZ,Southwest
+C0174,Nicole,Garcia,nicole.garcia89@gmail.com,2022-11-24,TX,Southwest
+C0362,Ryan,Jones,ryan.jones71@hotmail.com,2024-07-17,IL,Midwest
+C0228,Emma,Johnson,emma.johnson26@icloud.com,2023-05-18,CA,West
+C0152,Olivia,Moore,olivia.moore90@yahoo.com,2022-09-16,MI,Midwest
+C0468,Timothy,Patel,timothy.patel32@outlook.com,13-Jun-2025,Nevada,Southwest
+C0286,Amanda,Cohen,amanda.cohen54@gmail.com,18-Nov-2023,Ohio,Midwest
+C0395,Jacob,Campbell,jacob.campbell32@yahoo.com,2024-10-24,MN,Midwest
+C0127,Melissa,Scott,,2022-07-13,OH,Midwest
+C0359,Mateo,Anderson,mateo.anderson69@outlook.com,2024-07-14,PA,Northeast
+C0342,Carlos,Harris,carlos.harris72@yahoo.com,05/19/2024,CO,West
+C0194,Jessica,Harris,jessica.harris92@yahoo.com,2023-01-22,CT ,Northeast
+C0003,Fatima,Scott,fatima.scott90@gmail.com,06/20/2021,NV,Southwest
+C0191,Emma,Jackson,emma.jackson92@gmail.com,12-Jan-2023,MA,Northeast
+C0463,fatima,Garcia,,2025-05-24,Michigan,Midwest
+C0260,Lisa,Campbell,lisa.campbell58@hotmail.com,2023-09-20,Texas,Southwest
+C0339,William,clark,william.clark24@icloud.com,2024-05-06,UT,West
+C0499,Andrew,Torres,andrew.torres11@hotmail.com,2025-10-06,AZ,Southwest
+C0145,Barbara,Singh,barbara.singh32@yahoo.com,2022-09-04,NC,Southeast
+C0483,Priya,Clark,priya.clark10@hotmail.com,2025-08-30,CO,West
+C0401,Mei,TANAKA,mei.tanaka49@icloud.com,08-Nov-2024, UT,West
+C0449,Sofia,Moore,sofia.moore14@outlook.com,2025-04-05,CT,Northeast
+C0302,Timothy,Patel,timothy.patel71@yahoo.com,2023-12-26,NY,Northeast
+C0500,Michael,Hill,michael.hill69@hotmail.com,2025-10-06,New Mexico,Southwest
+C0036,Emily,Allen,emily.allen52@icloud.com,13-Sep-2021,NM,Southwest
+C0252,Patricia,Martin,,2023-08-22,CO,West
+C0476,Carlos,Gonzalez,carlos.gonzalez78@hotmail.com,2025-08-07,UT,West
+C0355,Kwame,Harris,kwame.harris11@hotmail.com,2024-07-10,Nevada,Southwest
+C0125,Zara,Davis,zara.davis48@gmail.com,2022-06-25,NV,Southwest
+C0415,Ashley,Hill,ashley.hill42@outlook.com,2024-12-25,OH,Midwest
+C0206,Joseph,Gonzalez,joseph.gonzalez14@gmail.com,03/05/2023,NJ,Northeast
+C0186,Amanda,Tanaka,,2022-12-24,fl,Southeast
+C0077,Sofia,Lee,sofia.lee93@hotmail.com,2022-01-19,ohio,Midwest
+C0049,Anthony,Sanchez,anthony.sanchez76@yahoo.com,2021-10-21,MI,Midwest
+C0169,Sofia,Singh,sofia.singh21@hotmail.com,2022-11-01,co,West
+C0011,Kimberly,Anderson,kimberly.anderson58@icloud.com,07/14/2021,pennsylvania,Northeast
+C0142,William,sanchez,william.sanchez51@gmail.com,2022-08-28,michigan,Midwest
+C0514,SANDRA,ADAMS,,26-Feb-2022,CA,West
+C0220,Ashley,Brown,ashley.brown19@gmail.com,08-Apr-2023,NJ,Northeast
+C0312,Hiroshi,King,hiroshi.king50@gmail.com,2024-02-01, NY,Northeast
+C0118,Charles,Rodriguez,charles.rodriguez10@gmail.com,05/24/2022,OR,West
+C0021,Elena,Jackson,elena.jackson87@hotmail.com,2021-08-15,NV,Southwest
+C0088,Robert,Lopez,,2022-02-15,il,Midwest
+C0295,Elizabeth,Rodriguez,elizabeth.rodriguez39@gmail.com,2023-12-09,IL,Midwest
+C0094,Zara,Lewis,zara.lewis13@icloud.com,2022-02-26,New Jersey,Northeast
+C0024,Thomas,Williams,thomas.williams32@icloud.com,2021-08-21,MI,Midwest
+C0015,Omar,White,omar.white16@yahoo.com,03-Aug-2021,WA,West
+C0103,Kwame,gonzalez,kwame.gonzalez38@yahoo.com,2022-04-03,Utah,West
+C0437,Karen,Thomas,karen.thomas1@yahoo.com,2025-03-03,VA,Southeast
+C0275,Anthony,lopez,anthony.lopez34@yahoo.com,2023-10-24,CO,West
+C0092,Michael,Wilson,michael.wilson47@hotmail.com,2022-02-24,Wisconsin,Midwest
+C0451,BRIAN,Lewis,brian.lewis18@icloud.com,2025-04-11,NJ,Northeast
+C0304,Patricia,Garcia,patricia.garcia55@icloud.com,2024-01-02,AZ,Southwest
+C0383,Patricia,Garcia,,2024-09-15,TN,Southeast
+C0290,Michael,Baker,,2023-11-25,PA,Northeast
+C0507,emily,sanchez,emily.sanchez67@yahoo.com,22-Mar-2024,NC,Southeast
+C0179,Joseph,Miller,joseph.miller78@hotmail.com,2022-12-10,wa,West
+C0358,Diego,Miller,diego.miller36@yahoo.com,2024-07-14,OH,Midwest
+C0398,Nicole,Baker,nicole.baker63@yahoo.com,2024-11-02,VA,Southeast
+C0299,Michael,Scott,michael.scott87@yahoo.com,22-Dec-2023,FL,Southeast
+C0104,Carlos,Jackson,carlos.jackson26@outlook.com,2022-04-04,WI,Midwest
+C0427,Sandra,Allen,sandra.allen84@outlook.com,02/09/2025,AZ,Southwest
+C0123,Deborah,Thomas,deborah.thomas2@yahoo.com,2022-06-19,CO,West
+C0215,George,Allen,george.allen67@yahoo.com,2023-03-31,mn,Midwest
+C0360,Elizabeth,Martinez,elizabeth.martinez22@icloud.com,2024-07-16,VA,Southeast
+C0480,Sofia,Kim,sofia.kim50@gmail.com,2025-08-12,az,Southwest
+C0308,Charles,Clark,charles.clark51@gmail.com,01/18/2024,FL,Southeast
+C0461,Nicole,Lopez,nicole.lopez88@icloud.com,2025-05-21,IL,Midwest
+C0085,Michael,Cohen,michael.cohen91@yahoo.com,2022-02-10,MI,Midwest
+C0406,Matthew,Campbell,matthew.campbell59@icloud.com,2024-11-13,OR,West
+C0192,mei,Torres,mei.torres11@outlook.com,2023-01-14,Oklahoma,Southwest
+C0497,Sandra,Singh,sandra.singh99@icloud.com,2025-10-03,NC,Southeast
+C0307,Michelle,Mitchell,michelle.mitchell24@icloud.com,2024-01-16,IL,Midwest
+C0421,Timothy,Wilson,timothy.wilson81@icloud.com,2025-01-07,OK,Southwest
+C0010,Kwame,Kim,kwame.kim48@icloud.com,2021-07-12,UT,West
+C0001,Joseph,Chen,joseph.chen10@gmail.com,2021-06-03,NV,Southwest
+C0489,Noah,WHITE,noah.white98@icloud.com,2025-09-10,MN,Midwest
+C0168,Fatima,Perez,fatima.perez10@outlook.com,2022-10-31,FL,Southeast
+C0039,Kwame,Tanaka,kwame.tanaka18@hotmail.com,2021-09-25,WA,West
+C0128,Michelle,Lee,michelle.lee3@gmail.com,2022-07-17,AZ,Southwest
+C0282,Steven,Young,steven.young89@hotmail.com,2023-11-10,NC,Southeast
+C0115,Thomas,Rodriguez,thomas.rodriguez63@yahoo.com,2022-05-05,NV,Southwest
+C0369,George,Tanaka,,2024-08-03,CA,West
+C0187,Carlos,Allen,carlos.allen88@hotmail.com,12/25/2022,NV,Southwest
+C0372,Wei,Martinez,wei.martinez58@outlook.com,2024-08-16,FL,Southeast
+C0236,Amanda,Kim,amanda.kim18@outlook.com,2023-06-05,pa,Northeast
+C0235,John,Patel,,2023-06-02,north carolina,Southeast
+C0493,Elizabeth,Jackson,elizabeth.jackson34@yahoo.com,2025-09-26,ct,Northeast
+C0414,Carlos,Cohen,carlos.cohen64@outlook.com,2024-12-23,TX,Southwest
+C0227,Emma,Anderson,emma.anderson77@hotmail.com,2023-05-18,VA,Southeast
+C0184,Daniel,Hall,daniel.hall30@outlook.com,2022-12-22,nm,Southwest
+C0114,Anthony,Okafor,anthony.okafor93@hotmail.com,04/29/2022,Pennsylvania,Northeast
+C0503,Karen,White,karen.white11@hotmail.com,2025-10-12,Tennessee,Southeast
+C0165,Omar,Campbell,omar.campbell3@yahoo.com,2022-10-23,IL,Midwest
+C0158,Timothy,Taylor,timothy.taylor89@hotmail.com,2022-10-02,North Carolina,Southeast
+C0056,Wei,Moore,wei.moore53@yahoo.com,15-Nov-2021,NM,Southwest
+C0111,Kwame,Ramirez,kwame.ramirez59@yahoo.com,22-Apr-2022,CO,West
+C0246,William,Tanaka,william.tanaka47@gmail.com,2023-07-19,wisconsin,Midwest
+C0330,Omar,White,omar.white11@yahoo.com,2024-04-09,GA,Southeast
+C0495,Sarah,Cohen,sarah.cohen51@hotmail.com,2025-09-30,Pennsylvania,Northeast
+C0328,Richard,Jones,richard.jones23@outlook.com,2024-04-02,WA,West
+C0221,William,jackson,william.jackson22@icloud.com,2023-04-18,UT,West
+C0166,Mei,Lopez,mei.lopez76@yahoo.com,2022-10-25,MN,Midwest
+C0512,ryan,rodriguez,,2025-04-16,PA,Northeast
+C0101,Emma,Thomas,emma.thomas71@hotmail.com,2022-03-24,NV,Southwest
+C0157,Steven,Davis,steven.davis30@yahoo.com,2022-09-28,GA,Southeast
+C0052,Kevin,Okafor,kevin.okafor7@outlook.com,2021-11-09,NJ,Northeast
+C0422,William,Martin,william.martin3@gmail.com,01/08/2025,CO,West
+C0482,William,Brown,william.brown82@hotmail.com,2025-08-24,GA,Southeast
+C0301,Emily,Sanchez,emily.sanchez67@yahoo.com,2023-12-24,NC,Southeast
+C0423,Emily,Perez,emily.perez21@icloud.com,01/21/2025, CO,West
+C0364,Ava,Lee,ava.lee15@outlook.com,2024-07-22,New Mexico,Southwest
+C0209,Emma,Thompson,,2023-03-20,new mexico,Southwest
+C0470,Jessica,Clark,jessica.clark32@hotmail.com,2025-06-16,Minnesota,Midwest
+C0412,Richard,Harris,richard.harris51@yahoo.com,2024-12-23,MN,Midwest
+C0324,Thomas,Harris,thomas.harris79@icloud.com,03/21/2024,WA,West
+C0504,Kimberly,Martinez,kimberly.martinez27@yahoo.com,2025-10-12,New York,Northeast
+C0098,Hiroshi,Hernandez,hiroshi.hernandez6@hotmail.com,03/11/2022,TN,Southeast
+C0016,Amanda,Murphy,amanda.murphy69@icloud.com,2021-08-05,MA,Northeast
+C0199,Anthony,Thomas,anthony.thomas57@outlook.com,2023-02-02,Wisconsin,Midwest
+C0438,Donna,Green,donna.green62@gmail.com,2025-03-06,NY,Northeast
+C0516,diego,miller,,2024-12-30,OH,Midwest
+C0315,Mary,Torres,mary.torres97@gmail.com,2024-02-06,minnesota,Midwest
+C0042,Ava,Walker,ava.walker41@hotmail.com,2021-09-29, VA,Southeast
+C0066,Kevin,Lewis,kevin.lewis50@yahoo.com,2021-12-16,ga,Southeast
+C0083,Susan,Lee,susan.lee96@icloud.com,2022-02-06,VA,Southeast
+C0400,Priya,Robinson,,2024-11-05,wa,West
+C0198,George,WALKER,george.walker1@outlook.com,31-Jan-2023,VA,Southeast
+C0171,Nancy,Young,nancy.young50@hotmail.com,12-Nov-2022,NC,Southeast
+C0232,Michael,Jackson,michael.jackson80@icloud.com,2023-05-22,OR,West
+C0513,omar,WHITE,omar.white11@yahoo.com,18-Sep-2024,GA,Southeast
+C0110,Ava,Gonzalez,ava.gonzalez93@icloud.com,2022-04-14,GA,Southeast
+C0336,Liam,Clark,liam.clark54@hotmail.com,04/27/2024,MA,Northeast
+C0484,Noah,Nguyen,noah.nguyen2@outlook.com,2025-09-02,IL,Midwest
+C0444,Mary,Okafor,mary.okafor16@icloud.com,19-Mar-2025,NM,Southwest
+C0117,Sarah,Tanaka,sarah.tanaka68@gmail.com,2022-05-20,New Jersey,Northeast
+C0164,Olivia,Martinez,olivia.martinez23@outlook.com,2022-10-19,OH,Midwest
+C0445,Donna,Thompson,donna.thompson89@yahoo.com,2025-03-23,co,West
+C0240,Elizabeth,Torres,elizabeth.torres23@icloud.com,2023-06-22,TN ,Southeast
+C0397,Noah,Thomas,noah.thomas32@icloud.com,2024-11-01,NV,Southwest
+C0317,Michelle,Allen,michelle.allen69@yahoo.com,2024-02-14,Minnesota,Midwest
+C0076,Kevin,Scott,kevin.scott98@hotmail.com,01/10/2022,OH,Midwest
+C0453,Aisha,Young,,2025-04-15,WA,West
+C0368,Jennifer,Sanchez,jennifer.sanchez70@yahoo.com,unknown,Connecticut,Northeast
+C0057,Sarah,Mitchell,sarah.mitchell39@icloud.com,2021-11-26,connecticut,Northeast
+C0095,mary,Tanaka,mary.tanaka98@outlook.com,03/02/2022,New Jersey,Northeast
+C0193,Wei,Sanchez,wei.sanchez20@icloud.com,2023-01-16,OH,Midwest
+C0067,Fatima,Lewis,fatima.lewis33@yahoo.com,2021-12-21,NC,Southeast
+C0045,Nicole,Jones,nicole.jones19@hotmail.com,2021-10-05,CA,West
+C0062,Omar,Jones,omar.jones60@gmail.com,2021-12-05, FL,Southeast
+C0063,Karen,Wilson,karen.wilson72@icloud.com,2021-12-07,IL,Midwest
+C0112,James,PEREZ,james.perez94@outlook.com,2022-04-27,NC,Southeast
+C0030,Nicole,Torres,,2021-09-02,Florida,Southeast
+C0048,Daniel,Kim,daniel.kim8@hotmail.com,10/09/2021,NV ,Southwest
+C0013,Carol,Singh,carol.singh88@hotmail.com,2021-07-19,GA,Southeast
+C0515,BARBARA,SANCHEZ,barbara.sanchez61@outlook.com,21-Nov-2022,CO,West
+C0099,Olivia,Martinez,olivia.martinez29@yahoo.com,2022-03-14,UT,West
+C0129,Joshua,Mitchell,joshua.mitchell69@hotmail.com,07/19/2022,AZ,Southwest
+C0146,Mary,Scott,mary.scott39@gmail.com,2022-09-04,TX,Southwest
+C0113,Aisha,Flores,aisha.flores22@yahoo.com,unknown,Georgia,Southeast
+C0180,Elena,Rodriguez,elena.rodriguez77@icloud.com,12/11/2022,co,West
+C0352,Andrew,Rivera,andrew.rivera53@icloud.com,2024-07-03,NC,Southeast
+C0054,Emma,Lewis,emma.lewis68@outlook.com,2021-11-10,CA,West
+C0269,James,Thompson,james.thompson22@hotmail.com,2023-10-07,MN,Midwest
+C0378,Brian,Campbell,brian.campbell91@hotmail.com,31-Aug-2024,WI,Midwest
+C0450,Brian,Hall,brian.hall48@outlook.com,2025-04-08,TX,Southwest
+C0309,Kimberly,Martin,kimberly.martin95@hotmail.com,2024-01-26,or,West
+C0035,Sandra,Nguyen,sandra.nguyen32@gmail.com,12-Sep-2021,Illinois,Midwest
+C0005,Olivia,Adams,olivia.adams9@icloud.com,2021-06-29,OH,Midwest
+C0477,David,Thomas,david.thomas25@icloud.com,08-Aug-2025,OH,Midwest
+C0281,Nicole,green,,2023-11-09,AZ ,Southwest
+C0161,Robert,GREEN,robert.green88@outlook.com,2022-10-09,UT,West
+C0346,EMILY,Okafor,emily.okafor80@gmail.com,2024-06-03,NJ,Northeast
+C0173,Richard,Patel,richard.patel97@yahoo.com,2022-11-24,GA,Southeast
+C0267,Robert,White,robert.white14@yahoo.com,2023-10-02,IL,Midwest
+C0100,Anthony,Gonzalez,anthony.gonzalez3@outlook.com,2022-03-15,CO ,West
+C0124,Emma,Thomas,emma.thomas65@icloud.com,2022-06-25,OK,Southwest
+C0237,Thomas,Jones,thomas.jones42@hotmail.com,2023-06-12,NC,Southeast
+C0201,Mei,Davis,mei.davis14@yahoo.com,2023-02-07,OH,Midwest
+C0131,Ryan,Thomas,ryan.thomas3@hotmail.com,2022-07-26,TN,Southeast
+C0051,Anthony,White,anthony.white72@icloud.com,2021-10-29, OR,West
+C0137,Aisha,Moore,aisha.moore13@hotmail.com,2022-08-19,PA,Northeast
+C0139,Mei,Williams,mei.williams25@hotmail.com,2022-08-22,NY,Northeast
+C0172,George,Nelson,george.nelson43@icloud.com,2022-11-24,MA,Northeast
+C0140,Michelle,White,michelle.white68@outlook.com,2022-08-23,WA,West
+C0222,Karen,Hernandez,karen.hernandez36@icloud.com,23-Apr-2023,UT,West
+C0464,Donna,Flores,donna.flores97@gmail.com,2025-05-29,UT,West
+C0318,Deborah,Baker,deborah.baker47@outlook.com,2024-02-17,WI,Midwest
+C0050,Ashley,Nguyen,ashley.nguyen81@icloud.com,10/24/2021,FL ,Southeast
+C0022,Wei,Harris,wei.harris55@hotmail.com,2021-08-15,Virginia,Southeast
+C0311,Ava,Rivera,ava.rivera76@icloud.com,2024-01-29,OR,West
+C0162,Emily,Rodriguez,emily.rodriguez70@hotmail.com,10/14/2022,IL,Midwest
+C0196,Diego,Hill,diego.hill41@outlook.com,2023-01-23,TN,Southeast
+C0230,Kevin,Hall,,2023-05-20,MI,Midwest
+C0501,Joseph,King,joseph.king20@outlook.com,10/07/2025,WA,West
+C0007,Fatima,Miller,,07/02/2021,CO,West
+C0223,Hiroshi,Walker,hiroshi.walker39@icloud.com,2023-04-28,AZ,Southwest
+C0272,Ashley,Taylor,ashley.taylor97@outlook.com,10/19/2023,WA,West
+C0341,William,King,william.king89@yahoo.com,2024-05-13,IL,Midwest
+C0135,Linda,Smith,,2022-08-07,NC,Southeast
+C0381,Jessica,robinson,jessica.robinson18@yahoo.com,09/10/2024,MI,Midwest
+C0200,David,Scott,david.scott98@outlook.com,2023-02-05,OR,West
+C0195,Kevin,Chen,kevin.chen95@icloud.com,2023-01-23,IL,Midwest
+C0120,Jessica,Smith,jessica.smith53@yahoo.com,2022-05-26,OK,Southwest
+C0273,Patricia,Brown,patricia.brown56@gmail.com,2023-10-22,OK,Southwest
+C0321,Sarah,Williams,,05-Mar-2024,pa,Northeast
+C0155,Ashley,Chen,,2022-09-20,IL,Midwest
+C0244,Jessica,Rodriguez,jessica.rodriguez42@icloud.com,07/05/2023,New Jersey,Northeast
+C0205,Linda,Thompson,linda.thompson66@icloud.com,26-Feb-2023,CA,West
+C0238,Mei,Allen,mei.allen89@yahoo.com,2023-06-13,IL,Midwest
+C0494,David,Thompson,david.thompson6@gmail.com,09/28/2025,FL,Southeast
+C0377,Joshua,Singh,joshua.singh89@outlook.com,2024-08-28,MA,Northeast
+C0060,Mark,Rivera,mark.rivera29@outlook.com,2021-12-04,CO,West
+C0136,Emily,King,emily.king23@gmail.com,2022-08-08,CO,West
+C0408,Patricia,thomas,patricia.thomas1@gmail.com,11/24/2024,FL,Southeast
+C0177,Ryan,Kim,ryan.kim56@yahoo.com,2022-11-29,AZ,Southwest
+C0448,Wei,Moore,wei.moore12@gmail.com,2025-04-03,washington,West
+C0108,Carlos,Torres,,04/11/2022,CT,Northeast
+C0518,mateo,KING,mateo.king57@gmail.com,2024-10-29,OK,Southwest
+C0327,Susan,Okafor,susan.okafor59@hotmail.com,2024-03-30,IL ,Midwest
+C0226,Kevin,Wilson,kevin.wilson93@icloud.com,2023-05-08,CA,West
+C0490,Ava,Singh,ava.singh99@gmail.com,2025-09-16,CT,Northeast
+C0465,andrew,Moore,andrew.moore76@icloud.com,2025-06-01,Texas,Southwest
+C0212,Richard,Lopez,richard.lopez53@icloud.com,2023-03-25,Virginia,Southeast
+C0254,Charles,lee,charles.lee53@icloud.com,2023-08-26,MI,Midwest
+C0502,Daniel,White,daniel.white11@outlook.com,08-Oct-2025,MI,Midwest
+C0305,Lisa,Wright,lisa.wright30@icloud.com,2024-01-03,Georgia,Southeast
+C0075,Joseph,Chen,joseph.chen10@yahoo.com,01/08/2022,NC,Southeast
+C0485,John,Jackson,john.jackson41@yahoo.com,2025-09-02,AZ,Southwest
+C0407,kimberly,Nguyen,kimberly.nguyen42@hotmail.com,2024-11-20,California,West
+C0017,Charles,Tanaka,charles.tanaka68@yahoo.com,2021-08-11,CO,West
+C0271,Richard,Miller,richard.miller83@icloud.com,2023-10-16,NM,Southwest
+C0472,Ava,Wilson,ava.wilson93@hotmail.com,2025-06-21,WA ,West
+C0371,Elena,Johnson,elena.johnson39@gmail.com,2024-08-16,wi,Midwest
+C0121,Ryan,Johnson,ryan.johnson81@yahoo.com,2022-06-01,PA,Northeast
+C0388,Zara,Garcia,zara.garcia38@hotmail.com,10/01/2024,florida,Southeast
+C0390,Olivia,JONES,olivia.jones87@gmail.com,2024-10-05,NJ,Northeast
+C0190,Brian,Young,brian.young38@yahoo.com,2023-01-07,CO,West
+C0229,Ryan,Garcia,ryan.garcia14@yahoo.com,2023-05-18,WA,West
+C0338,Joshua,Williams,joshua.williams50@icloud.com,2024-04-30,TX,Southwest
+C0078,Liam,Hall,liam.hall28@icloud.com,2022-01-25,mn,Midwest
+C0303,Jennifer,Campbell,jennifer.campbell43@hotmail.com,2023-12-26,OR,West
+C0090,Omar,Campbell,omar.campbell84@outlook.com,2022-02-17,virginia,Southeast
+C0460,Aisha,Williams,aisha.williams53@hotmail.com,2025-05-15,MN ,Midwest
+C0440,Melissa,Kim,melissa.kim29@hotmail.com,2025-03-13,WI,Midwest
+C0008,emma,Adams,emma.adams99@yahoo.com,2021-07-06,OK,Southwest
+C0132,Linda,Rivera,linda.rivera93@outlook.com,2022-07-30,tn,Southeast
+C0141,Betty,RIVERA,betty.rivera46@outlook.com,2022-08-26,CO,West
+C0429,Jennifer,Thompson,jennifer.thompson12@outlook.com,14-Feb-2025,co,West
+C0316,Kwame,Moore,kwame.moore74@gmail.com,2024-02-12,NC,Southeast
+C0068,Olivia,Allen,olivia.allen43@gmail.com,2021-12-21,CO,West
+C0130,Brian,Hill,brian.hill53@gmail.com,2022-07-22,north carolina,Southeast
+C0143,Zara,Martinez,zara.martinez48@icloud.com,2022-08-29,TX,Southwest
+C0517,sandra,harris,,28-May-2024,OK,Southwest
+C0259,Hiroshi,Martinez,hiroshi.martinez49@gmail.com,2023-09-19,AZ,Southwest
+C0498,Carlos,Scott,carlos.scott55@icloud.com,2025-10-05,PA,Northeast
+C0043,Mei,Martin,,2021-10-02,UT,West
+C0249,Priya,Ramirez,priya.ramirez24@hotmail.com,2023-08-01,ok,Southwest
+C0147,HIROSHI,Hill,hiroshi.hill84@gmail.com,2022-09-06,UT,West
+C0014,Brian,Lewis,brian.lewis18@outlook.com,30-Jul-2021,texas,Southwest
+C0473,ANDREW,Torres,andrew.torres37@gmail.com,2025-07-08,New York,Northeast
+C0150,Brian,Miller,brian.miller71@icloud.com,2022-09-09,North Carolina,Southeast
+C0488,Mateo,Thompson,mateo.thompson70@yahoo.com,2025-09-10,WI,Midwest
+C0027,Olivia,Williams,olivia.williams93@gmail.com,2021-08-29,OH,Midwest
+C0405,karen,Clark,karen.clark89@outlook.com,2024-11-12,NJ,Northeast
+C0087,Amanda,Hill,,2022-02-14,FL,Southeast
+C0411,kevin,Hall,kevin.hall9@hotmail.com,2024-12-22,CT,Northeast
+C0243,Liam,Lewis,liam.lewis74@yahoo.com,2023-06-26,NY ,Northeast
+C0467,Michelle,Martin,michelle.martin41@yahoo.com,2025-06-09,NV,Southwest
+C0032,Lisa,Hall,lisa.hall77@gmail.com,2021-09-03,IL,Midwest
+C0134,TIMOTHY,Sanchez,timothy.sanchez3@hotmail.com,2022-08-07,IL,Midwest
+C0289,Jennifer,Jackson,jennifer.jackson44@icloud.com,N/A,PA,Northeast
+C0373,Andrew,Harris,andrew.harris45@gmail.com,2024-08-21,OR,West
+C0156,Kimberly,Smith,kimberly.smith68@gmail.com,26-Sep-2022,MN,Midwest
+C0384,Daniel,Jones,daniel.jones69@outlook.com,2024-09-16, NM,Southwest
+C0306,Mei,Anderson,mei.anderson81@yahoo.com,2024-01-08,TN,Southeast
+C0356,Joshua,Brown,joshua.brown4@yahoo.com,2024-07-10,NM,Southwest
+C0019,Timothy,Green,timothy.green1@gmail.com,2021-08-13,NV,Southwest
+C0086,Joshua,Gonzalez,joshua.gonzalez51@yahoo.com,2022-02-12,OR,West
+C0149,Priya,Davis,priya.davis49@icloud.com,07-Sep-2022,WI,Midwest
+C0151,Emily,ADAMS,emily.adams8@gmail.com,10-Sep-2022,UT,West
+C0181,David,Walker,david.walker42@gmail.com,2022-12-15,NM,Southwest
+C0216,Nancy,Brown,nancy.brown88@icloud.com,04/02/2023,MN,Midwest
+C0170,Liam,Green,,2022-11-05,mn,Midwest
+C0376,Kimberly,Cohen,kimberly.cohen95@hotmail.com,27-Aug-2024,NC,Southeast
+C0294,William,Patel,william.patel41@gmail.com,2023-12-08,NC,Southeast
+C0403,charles,Jackson,charles.jackson52@hotmail.com,2024-11-11,TX,Southwest
+C0263,MEI,Young,mei.young65@icloud.com,2023-09-27,Colorado,West
+C0471,Diego,Hernandez,diego.hernandez77@hotmail.com,2025-06-18,TX,Southwest
+C0241,Melissa,Lopez,melissa.lopez41@outlook.com,2023-06-23,OK,Southwest
+C0496,Karen,PATEL,karen.patel37@hotmail.com,2025-09-30,MA,Northeast
+C0430,Olivia,Jackson,,02/15/2025,NV,Southwest
+C0274,Omar,Clark,omar.clark2@gmail.com,2023-10-23,pa,Northeast
+C0176,Joseph,Wright,joseph.wright7@gmail.com,2022-11-27,GA,Southeast
+C0028,Barbara,green,barbara.green5@icloud.com,2021-08-30,new mexico,Southwest
+C0314,Robert,Tanaka,robert.tanaka27@outlook.com,2024-02-02,Colorado,West
+C0160,Mary,King,mary.king6@gmail.com,2022-10-08,FL,Southeast
+C0297,Emma,Allen,emma.allen3@outlook.com,2023-12-10,FL,Southeast
+C0409,Donna,Chen,donna.chen94@icloud.com,2024-12-05,CO,West
+C0277,Joseph,Tanaka,,2023-10-29,WA,West
+C0325,Fatima,Robinson,fatima.robinson76@gmail.com,2024-03-26,Minnesota,Midwest
+C0351,Emma,miller,emma.miller84@icloud.com,2024-07-02,Florida,Southeast
+C0040,Joseph,WHITE,joseph.white38@yahoo.com,27-Sep-2021,OH,Midwest
+C0343,Priya,RAMIREZ,priya.ramirez63@outlook.com,2024-05-23,GA,Southeast
+C0340,Michael,Nguyen,michael.nguyen82@hotmail.com,2024-05-09,az,Southwest
+C0380,Emily,Mitchell,emily.mitchell22@hotmail.com,2024-09-08,CO,West
+C0323,george,Hall,george.hall77@icloud.com,2024-03-21,NM,Southwest
+C0242,Andrew,MARTIN,,2023-06-24,arizona,Southwest
+C0126,George,MURPHY,george.murphy80@hotmail.com,2022-07-13,UT,West
+C0046,Mary,Taylor,,2021-10-06,oh,Midwest
+C0313,timothy,Brown,timothy.brown91@yahoo.com,02/02/2024,CT ,Northeast
+C0268,Michael,Jackson,michael.jackson85@outlook.com,2023-10-05,NV,Southwest
+C0436,Zara,Lee,,2025-03-02,New Jersey,Northeast
+C0265,Aisha,Perez,aisha.perez47@hotmail.com,2023-09-30,CO,West
+C0239,Emily,Campbell,emily.campbell62@outlook.com,2023-06-20,MN,Midwest
+C0144,Joseph,Johnson,joseph.johnson59@hotmail.com,2022-09-01,OH ,Midwest
+C0399,Emily,Rivera,emily.rivera74@outlook.com,2024-11-05,AZ,Southwest
+C0385,Wei,Lewis,wei.lewis77@hotmail.com,2024-09-18,New Mexico,Southwest
+C0270,Carlos,Robinson,carlos.robinson6@hotmail.com,2023-10-07,Wisconsin,Midwest
+C0455,Wei,Martinez,wei.martinez73@gmail.com,2025-04-19,GA,Southeast
+C0374,Mateo,King,mateo.king57@gmail.com,08/21/2024,OK,Southwest
+C0073,Emily,Allen,emily.allen49@hotmail.com,2022-01-04,tn,Southeast
+C0041,Zara,Clark,zara.clark94@hotmail.com,09/27/2021,Nevada,Southwest
+C0354,Thomas,Moore,,07/08/2024,NY,Northeast
+C0247,William,Rodriguez,william.rodriguez73@yahoo.com,2023-07-25,GA,Southeast
+C0298,Noah,Anderson,noah.anderson83@gmail.com,16-Dec-2023,new mexico,Southwest
+C0058,John,Nguyen,john.nguyen24@hotmail.com,2021-12-02,OH,Midwest
+C0189,Betty,Patel,betty.patel11@hotmail.com,2023-01-06,MI,Midwest
+C0361,George,garcia,george.garcia73@icloud.com,07/17/2024,fl,Southeast
+C0248,Sofia,Allen,sofia.allen76@hotmail.com,2023-07-31,OH,Midwest
+C0291,Barbara,Ramirez,barbara.ramirez62@outlook.com,2023-11-26,New York,Northeast
+C0020,John,Lopez,john.lopez39@icloud.com,2021-08-14,AZ ,Southwest
+C0018,Joseph,Jones,joseph.jones94@yahoo.com,2021-08-13,TN,Southeast
+C0188,Susan,RIVERA,susan.rivera85@icloud.com,01/05/2023,CA,West
+C0478,Linda,Nguyen,,2025-08-10, CA,West
+C0280,Jennifer,Campbell,,2023-11-08,WI,Midwest
+C0211,Olivia,Garcia,olivia.garcia2@outlook.com,2023-03-25,MI,Midwest
+C0138,Ava,Martinez,ava.martinez20@yahoo.com,2022-08-20,North Carolina,Southeast
+C0257,Jessica,Robinson,jessica.robinson85@yahoo.com,2023-09-09,OH,Midwest
+C0365,Ashley,Allen,ashley.allen70@outlook.com,2024-07-24,CA,West
+C0122,Patricia,Hill,patricia.hill9@yahoo.com,2022-06-05,il,Midwest
+C0375,Robert,Robinson,robert.robinson31@yahoo.com,2024-08-23,PA ,Northeast
+C0434,Ava,JOHNSON,ava.johnson93@yahoo.com,01-Mar-2025,NM,Southwest
+C0256,Susan,Thomas,susan.thomas31@outlook.com,08/30/2023,Nevada,Southwest
+C0296,Elizabeth,Hernandez,elizabeth.hernandez91@gmail.com,10-Dec-2023,NJ,Northeast
+C0004,Priya,Jones,priya.jones70@gmail.com,2021-06-26,OR,West
+C0475,Matthew,CLARK,matthew.clark27@hotmail.com,2025-07-18,MA,Northeast
+C0469,Ryan,Flores,ryan.flores83@gmail.com,06/14/2025,IL,Midwest
+C0096,Joseph,Miller,joseph.miller27@outlook.com,2022-03-05,TN,Southeast
+C0116,Joseph,Sanchez,joseph.sanchez70@gmail.com,2022-05-18,PA,Northeast
+C0182,Nancy,Gonzalez,nancy.gonzalez82@outlook.com,2022-12-19, VA,Southeast
+C0508,fatima,ROBINSON,fatima.robinson76@gmail.com,2024-05-23,MN,Midwest
+C0231,Jacob,Ramirez,jacob.ramirez51@outlook.com,05/22/2023,OR,West
+C0420,Patricia,Young,patricia.young6@gmail.com,05-Jan-2025, OR,West
+C0283,Deborah,Jones,deborah.jones20@outlook.com,2023-11-11,Texas,Southwest
+C0506,MEI,DAVIS,mei.davis14@yahoo.com,07/12/2023,ohio,Midwest
+C0261,Susan,Tanaka,susan.tanaka62@hotmail.com,2023-09-22,NC,Southeast
+C0233,Deborah,Wilson,deborah.wilson43@icloud.com,2023-05-26,FL,Southeast
+C0093,John,Nelson,john.nelson64@icloud.com,02/24/2022,WI,Midwest
+C0320,Mateo,Davis,mateo.davis15@outlook.com,2024-03-04,NJ,Northeast
+C0218,Linda,Nguyen,linda.nguyen35@outlook.com,2023-04-07,Utah,West
+C0310,Carol,Kim,carol.kim26@icloud.com,2024-01-28,CT,Northeast
+C0357,Melissa,Moore,melissa.moore38@gmail.com,2024-07-13,OR,West
+C0520,deborah,THOMAS,deborah.thomas2@yahoo.com,2022-10-12,co,West
+C0458,Joseph,Torres,joseph.torres93@yahoo.com,2025-05-03,VA,Southeast
+C0234,Carlos,White,carlos.white43@icloud.com,2023-06-02,IL,Midwest
+C0441,Wei,Singh,wei.singh88@icloud.com,14-Mar-2025,Illinois,Midwest
+C0213,Deborah,Kim,deborah.kim11@hotmail.com,2023-03-26,TN,Southeast
+C0413,Amanda,Flores,amanda.flores55@yahoo.com,12/23/2024,FL,Southeast
+C0329,Daniel,Rivera,daniel.rivera79@hotmail.com,2024-04-07,NC,Southeast
+C0071,Michelle,Hall,michelle.hall93@yahoo.com,2021-12-28,VA,Southeast
+C0044,Aisha,Robinson,aisha.robinson31@outlook.com,2021-10-03,NY,Northeast
+C0070,Betty,Jones,betty.jones12@hotmail.com,12/26/2021,WA,West
+C0224,Sandra,Harris,sandra.harris10@outlook.com,04/30/2023,Oklahoma,Southwest
+C0337,John,Rodriguez,john.rodriguez18@hotmail.com,2024-04-29,Minnesota,Midwest
+C0250,Amanda,Flores,amanda.flores4@icloud.com,2023-08-14,OH,Midwest
+C0454,Barbara,Jackson,barbara.jackson9@hotmail.com,2025-04-17,VA,Southeast
+C0370,Michelle,Williams,michelle.williams95@yahoo.com,2024-08-07,PA,Northeast
+C0074,George,Gonzalez,george.gonzalez78@gmail.com,2022-01-05,OK ,Southwest
+C0009,James,Hill,james.hill99@icloud.com,2021-07-10,mn,Midwest
+C0332,ryan,Chen,ryan.chen31@outlook.com,11-Apr-2024,FL,Southeast
+C0037,Carlos,Clark,carlos.clark30@hotmail.com,2021-09-16,wisconsin,Midwest
+C0006,Joseph,Nelson,joseph.nelson5@outlook.com,01-Jul-2021, MA,Northeast
+C0069,Thomas,Allen,thomas.allen58@outlook.com,2021-12-23,OR,West
+C0065,Ryan,Singh,,12/09/2021,TN,Southeast
+C0344,Thomas,Kim,thomas.kim18@yahoo.com,05/23/2024,Oregon,West
+C0447,William,Flores,william.flores30@icloud.com,2025-03-31,NV,Southwest
+C0148,Andrew,Thomas,andrew.thomas12@icloud.com,09/06/2022,CT,Northeast
+C0079,Lisa,Lee,lisa.lee27@outlook.com,01/25/2022,CO,West
+C0214,Wei,perez,wei.perez32@hotmail.com,2023-03-28,NJ,Northeast
+C0431,Patricia,Sanchez,patricia.sanchez48@yahoo.com,2025-02-17,UT,West
+C0185,Matthew,Walker,matthew.walker71@icloud.com,12/22/2022,CO,West
+C0474,Kwame,Chen,kwame.chen85@outlook.com,07/16/2025,co,West
+C0432,Betty,White,betty.white7@icloud.com,2025-02-20,tx,Southwest
+C0197,Amanda,Harris,amanda.harris14@gmail.com,2023-01-25,UT,West
+C0285,Matthew,Williams,matthew.williams14@outlook.com,2023-11-17,VA,Southeast
+C0097,Richard,Murphy,richard.murphy41@icloud.com,2022-03-09,OH,Midwest
+C0072,Jacob,Thompson,jacob.thompson7@outlook.com,2021-12-28,GA,Southeast
+C0487,Sandra,Robinson,sandra.robinson54@outlook.com,2025-09-06,MI,Midwest
+C0178,Mateo,Robinson,mateo.robinson10@outlook.com,2022-12-02,NV ,Southwest
+C0217,Sarah,Patel,sarah.patel22@yahoo.com,2023-04-03,MI,Midwest
+C0446,Joshua,Scott,joshua.scott62@gmail.com,2025-03-28,NY,Northeast
+C0391,Carol,WILLIAMS,carol.williams18@icloud.com,2024-10-10,VA,Southeast
+C0416,Emma,Lewis,emma.lewis44@hotmail.com,2024-12-27,OH,Midwest
+C0392,Charles,Taylor,charles.taylor8@outlook.com,2024-10-16,GA,Southeast
+C0326,Nancy,Chen,,2024-03-26,VA,Southeast
+C0404,Anthony,Clark,anthony.clark96@outlook.com,2024-11-12,AZ,Southwest
