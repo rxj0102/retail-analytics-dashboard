@@ -1,5 +1,7 @@
 # Retail Analytics Dashboard
 
+[![CI](https://github.com/rxj0102/retail-analytics-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/retail-analytics-dashboard/actions/workflows/ci.yml)
+
 An end to end data analyst project: a messy retail sales export is cleaned in Python, loaded into a relational SQLite database, analyzed with hand written SQL, and presented in an interactive Streamlit dashboard.
 
 ## Problem
