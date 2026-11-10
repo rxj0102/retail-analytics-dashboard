@@ -55,7 +55,7 @@ Revenue is defined as the sum of line revenue on completed orders. Refunded and 
 
 ## Key Findings
 
-All numbers come from running the pipeline in this repo.
+All numbers come from running the pipeline in this repo (`make reproduce`); the full output is saved in `results/analysis_summary.txt`.
 
 **Headline KPIs (completed orders, 2024 to 2025)**
 
