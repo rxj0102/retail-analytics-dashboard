@@ -55,7 +55,7 @@ Revenue is defined as the sum of line revenue on completed orders. Refunded and 
 
 ## Key Findings
 
-All numbers come from running the pipeline in this repo.
+All numbers come from running the pipeline in this repo (`make reproduce`); the full output is saved in `results/analysis_summary.txt`.
 
 **Headline KPIs (completed orders, 2024 to 2025)**
 
@@ -95,7 +95,7 @@ All numbers come from running the pipeline in this repo.
 * 15 duplicate customers were merged and 475 of their orders were remapped to the surviving record.
 * 4,358 order dates (22%) were not in ISO format and would have broken monthly grouping.
 * 3,638 prices (10.3%) were stored as text; without cleaning, revenue sums would skip or fail on them.
-* 745 line items with zero or negative quantity were dropped, and 538 stale line revenue values were recomputed.
+* 745 line items with zero or negative quantity were dropped, and 520 stale line revenue values were recomputed.
 
 ## How to Run
 
@@ -142,3 +142,29 @@ retail-analytics-dashboard/
   requirements.txt
   README.md
 ```
+
+## Reproducibility
+
+### Data availability
+
+Inputs ship in the `data/` folder of this repository. No external downloads are needed.
+
+### Computational requirements
+
+- Python 3.12.3. Every dependency version is pinned in `uv.lock`.
+- Checked on Linux x86_64 with 2 CPU cores and 8 GB RAM. No GPU is needed.
+
+```bash
+pip install uv     # once
+uv sync            # installs the exact pinned environment
+uv run pytest -q   # runs the test suite
+```
+
+### Runtime
+
+The test suite (7 tests) finishes in about 15 seconds on the machine above, including any data downloads it triggers.
+
+### Citation
+
+Citation metadata is in `CITATION.cff`. GitHub turns it into a Cite this repository button on the repo page.
+

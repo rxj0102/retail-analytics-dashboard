@@ -1,0 +1,17 @@
+[project]
+name = "retail-analytics-dashboard"
+version = "0.1.0"
+description = "Research code for retail-analytics-dashboard"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "streamlit>=1.35",
+    "plotly>=5.18"
+]
+
+[dependency-groups]
+dev = ["pytest>=7.4"]
+
+[tool.uv]
+package = false
